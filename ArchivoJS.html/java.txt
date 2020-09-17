@@ -1,0 +1,10 @@
+<!doctype htmal>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>en linia</title>
+</head>
+<body>
+     <p onclick="alert('hola usuario')">Click</p>
+</body>
+</html>
